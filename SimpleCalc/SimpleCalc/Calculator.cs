@@ -32,13 +32,13 @@ namespace SimpleCalc
 		//Create a method to add the two numbers
 		public double Add()
 		{
-			throw new NotImplementedException();
+			return this.Number1 + this.Number2;
 		}
 
 		//Create a method to subtract the two numbers
 		public double Subtract()
 		{
-			throw new NotImplementedException();
+			return this.Number1 - this.Number2;
 		}
 
 		//Create a method to multiply the two numbers
